@@ -12,7 +12,18 @@ Inside this folder, you have:
 
 Before we get started, just make sure you have these two things:
 1. **Python**: You'll need Python installed on your computer. If you don't have it yet, you can grab it from [python.org](https://www.python.org/downloads/).
-2. **Gemini API Key**: You will also need a free API key from Google so the bots can use their AI. You can get yours at the [Google AI Studio](https://aistudio.google.com/app/apikey).
+2. **Gemini API Key**: You will also need a free API key from Google so the bots can use their AI.
+
+---
+
+## How to Get a Gemini API Key
+
+Before setting up the code, you will need to generate your own API key:
+1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
+2. Sign in with your Google account.
+3. Click the **"Create API key"** button.
+4. Choose to create the key in a new project.
+5. Copy the long string of text it gives you. Keep this somewhere safe, as you will need to paste it into the code during the setup below!
 
 ---
 
