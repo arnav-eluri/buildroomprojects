@@ -16,7 +16,14 @@ The ultimate goal? To improve your core understanding, sharpen your problem-solv
 
 ## Repository Structure
 
-Inside this repository, you'll find different project folders. Each folder represents a standalone project or module and comes with its own instructions. 
+Inside this repository, you'll find different project folders. Each folder represents a standalone project or module and comes with its own instructions.
+
+### Projects
+
+| Folder | Description |
+|--------|-------------|
+| [`smartchatbot`](./smartchatbot/) | Two Gemini-powered chatbots — a general-purpose assistant and a college FAQ bot. Requires a Google Gemini API key. |
+| [`debugbot`](./debugbot/) | A code debug assistant that analyzes your Python code for bugs and a practice mode with random buggy code challenges. Fully offline — no API key needed. |
 
 ## How to Get Started
 
